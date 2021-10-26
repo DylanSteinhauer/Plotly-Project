@@ -10,9 +10,9 @@ These charts provide greater insight into the biodiversity of each patient. They
 which provide scientific names of the samples. They also contain the top bacteria cultures found and the bellybutton washing frequency of each patient.
 
 ## Customization
-In order to make the webpage more readbable, I made the following modifications:
--added a background image
--changed the color of the header text to light yellow
--changed the color of the subheader text to white
--made the background color of the page sky blue
+In order to make the webpage more readbable, I made the following modifications:\
+-added a background image\
+-changed the color of the header text to light yellow\
+-changed the color of the subheader text to white\
+-made the background color of the page sky blue\
 -added a paragraph explaining the purpose of the project
